@@ -1,4 +1,4 @@
-module github.com/uussoop/nxt_cloud_go
+module github.com/uussoop/nxtcloudgo
 
 go 1.20
 
